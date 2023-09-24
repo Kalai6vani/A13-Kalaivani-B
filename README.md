@@ -2,7 +2,8 @@
 
 # PRIEE - Smart Fashion Recommender Application
 
-# /Papers/
+# Papers (02.09.2023)
+Literature survey of: 
 1) “Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation” , Yujie Lin, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jun Ma, and Maarten de Rijke, 2020
 2) “EPYNET: Efficient Pyramidal Network for Clothing Segmentation”, Andrei De Souza Inacio and Heitor Silverio Lopes, 2020
 3) “Aspect-Based Fashion Recommendation With Attention Mechanism”, Weiqian Li and Bugao Xu, 2020
@@ -11,3 +12,14 @@
 6) “Tripartite Graph Regularized Latent Low-rank Representation for Fashion Compatibility Prediction”, Peiguang Jing, Jing Zhang, Liqiang Nie, Shu, Ye, Jing Liu, Yuting Su, 2021
 7) “Visual and Textual Jointly Enhanced Interpretable Fashion Recommendation”, Qianqian Wu, Pengpeng Zhao, and Zhiming Cui, 2020
 
+# Abstract (05.09.2023) 
+Abstract 
+Tech Stack
+
+# Proposed Solution (07.09.2023)
+Solution
+Architecture diagram
+
+# Functional Requirements (19.09.2023)
+Requirements
+Data Flow diagrams
