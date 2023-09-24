@@ -14,12 +14,15 @@ Literature survey of:
 
 # Abstract (05.09.2023) 
 Abstract 
+
 Tech Stack
 
 # Proposed Solution (07.09.2023)
 Solution
+
 Architecture diagram
 
 # Functional Requirements (19.09.2023)
 Requirements
+
 Data Flow diagrams
